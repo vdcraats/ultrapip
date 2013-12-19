@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/ultrapip/';
+$config['base_url']	= 'http://localhost/diplopoda/ultrapip/';
 
 /*
 |--------------------------------------------------------------------------
