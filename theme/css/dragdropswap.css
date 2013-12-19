@@ -1,0 +1,158 @@
+.droppable {
+    margin-top: 0px;
+    float: left;
+    margin-left: 0px;
+    width: 90px;
+    height: 90px;
+    background: url("../images/empty_smark_sprite_nl_v2.png")  -180px 0px transparent;
+}
+
+.draggable {
+    width: 90px;
+    height: 90px;
+    /*background: url("images/empty_smark_sprite_nl_v2.png")  0px 0px transparent; */
+}
+
+.inner_draggable {
+    width: 90px;
+    height: 90px;
+}
+
+.inner_draggable_custom {
+    width: 80px;
+    height: 80px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius:10px;
+    text-align: center;
+    
+}
+
+.title {
+   padding-top: 55px;
+   color: #FFFFFF;
+    cursor: pointer;
+    font: 12px/12px "Lucida Sans Unicode","Lucida Grande",Arial,Helvetica,sans-serif;
+    text-shadow: 0 1px 0 #313131;
+}
+
+.ui-draggable-dragging {
+    filter:alpha(opacity=50); opacity:0.5;
+    /*background: blue;*/
+}
+
+.hoverClass {
+    /*border: 1px solid red;*/
+}
+
+.trash {
+
+    margin-left: 10px;
+    line-height: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+    padding: 10px 20px;
+    background: -moz-linear-gradient(
+    top,
+    #919191 0%,
+    #212121);
+    background: -webkit-gradient(
+    linear, left top, left bottom, 
+    from(#919191),
+    to(#212121));
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid #212121;
+    -moz-box-shadow:
+    0px 1px 3px rgba(000,000,000,0.5),
+    inset 0px 0px 1px rgba(255,255,255,0.5);
+    -webkit-box-shadow:
+    0px 1px 3px rgba(000,000,000,0.5),
+    inset 0px 0px 1px rgba(255,255,255,0.5);
+    box-shadow:
+    0px 1px 3px rgba(000,000,000,0.5),
+    inset 0px 0px 1px rgba(255,255,255,0.5);
+    text-shadow:
+    0px -1px 0px rgba(000,000,000,0.7),
+    0px 1px 0px rgba(255,255,255,0.3);
+    float: right;
+    width: 110px;
+    height:20px;
+    background-color:grey;
+    border:1px solid #000000;
+    color:white;
+    margin-bottom:5px;
+    padding:5px;
+}
+
+.edit {
+
+
+}
+
+.edit:hover {
+
+}
+
+.DropTargetValid_trash {
+    background:#ccc;
+    background:-moz-linear-gradient(top,#ccc 0%,#D33838 100%);
+    background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#ccc),color-stop(100%,#D33838));
+    background:-webkit-linear-gradient(top,#ccc 0%,#D33838 100%);
+    background:-o-linear-gradient(top,#ccc 0%,#D33838 100%);
+    background:-ms-linear-gradient(top,#ccc 0%,#D33838 100%);
+    background:linear-gradient(top,#ccc 0%,#D33838 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ccc',endColorstr='#D33838',GradientType=0);
+    padding:8px 13px;
+    color:#fff;
+    font-family:'Helvetica Neue',sans-serif;
+    font-size:17px;
+    border-radius:4px;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+    border:1px solid #D33838;
+    cursor:pointer;
+    width:80px;
+    float:left;
+    padding-bottom: 10px;
+    margin-left: 180px; 
+}
+
+.DropTargetValid_edit {
+
+      background:#ccc;
+    background:-moz-linear-gradient(top,#ccc 0%,#188BC0 100%);
+    background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#ccc),color-stop(100%,#188BC0));
+    background:-webkit-linear-gradient(top,#ccc 0%,#188BC0 100%);
+    background:-o-linear-gradient(top,#ccc 0%,#188BC0 100%);
+    background:-ms-linear-gradient(top,#ccc 0%,#188BC0 100%);
+    background:linear-gradient(top,#ccc 0%,#188BC0 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ccc',endColorstr='#188BC0',GradientType=0);
+    padding:8px 13px;
+    color:#fff;
+    font-family:'Helvetica Neue',sans-serif;
+    font-size:17px;
+    border-radius:4px;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+    border:1px solid #1A87B9;
+    cursor:pointer;
+    width:80px;
+    float:left;
+}
+
+.DropTargetInvalid {
+    background-color:#FCD9D9;  
+}
+
+#empty {
+    height: 90px;
+}
+
+.empty:hover {
+    background: url("../images/empty_smark_sprite_nl_v2.png")  -90px 0px transparent;
+}
+

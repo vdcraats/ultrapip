@@ -1,0 +1,215 @@
+#defaultWidget {
+    background-image: linear-gradient(to bottom, #92BCF5 0%, #2C589C 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}
+
+#BlueWidget {
+    background-image: linear-gradient(to bottom, #92BCF5 0%, #2C589C 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}
+
+#RedWidget {
+    background-image: linear-gradient(to bottom, #F53C3C 0%, #AB3333 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}
+
+#PinkWidget {
+    background-image: linear-gradient(to bottom, #F18ECA 0%, #C83B93 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}
+
+#OrangeWidget {
+    background-image: linear-gradient(to bottom, #FBAD40 0%, #E44C06 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}
+
+#GreenWidget {
+    background-image: linear-gradient(to bottom, #88D689 0%, #24852D 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}
+
+#BrownWidget {
+    background-image: linear-gradient(to bottom, #CE9877 0%, #864B28 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}
+
+
+#CyaanWidget {
+    background-image: linear-gradient(to bottom, #3CD9D0 0%, #00746E 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}
+
+#PurpleWidget {
+    background-image: linear-gradient(to bottom, #9946FE 0%, #42068D 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}
+
+
+#GreyWidget {
+    background-image: linear-gradient(to bottom, #C4CBD1 0%, #88878B 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}
+
+
+#YellowWidget {
+    background-image: linear-gradient(to bottom, #FFF046 0%, #BDAD00 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}
+
+#BlackWidget {
+    background-image: linear-gradient(to bottom, #8B8B8B 0%, #151515 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}
+
+
+#default {
+    background-image: linear-gradient(to bottom, #92BCF5 0%, #2C589C 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+#blue {
+    background-image: linear-gradient(to bottom, #92BCF5 0%, #2C589C 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+#red {
+    background-image: linear-gradient(to bottom, #F53C3C 0%, #AB3333 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+#pink {
+    background-image: linear-gradient(to bottom, #F18ECA 0%, #C83B93 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+#orange {
+    background-image: linear-gradient(to bottom, #FBAD40 0%, #E44C06 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+#green {
+    background-image: linear-gradient(to bottom, #88D689 0%, #24852D 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+#brown {
+    background-image: linear-gradient(to bottom, #CE9877 0%, #864B28 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+#cyaan {
+    background-image: linear-gradient(to bottom, #3CD9D0 0%, #00746E 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    cursor: hand;
+}
+#purple {
+    background-image: linear-gradient(to bottom, #9946FE 0%, #42068D 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+#grey {
+    background-image: linear-gradient(to bottom, #C4CBD1 0%, #88878B 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+#yellow {
+    background-image: linear-gradient(to bottom, #FFF046 0%, #BDAD00 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+#black {
+    background-image: linear-gradient(to bottom, #8B8B8B 0%, #151515 100%);
+    border-radius: 8px 8px 8px 8px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+.title {
+    color: #FFFFFF;
+    cursor: pointer;
+    font: 12px/12px "Lucida Sans Unicode","Lucida Grande",Arial,Helvetica,sans-serif;
+    padding-top: 55px;
+    text-shadow: 0 1px 0 #313131;
+    text-align: center;
+}
